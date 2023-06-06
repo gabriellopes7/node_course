@@ -1,0 +1,4 @@
+20230603	14:00:45	96cbd50e-4d85-48eb-94db-2079da4fedc7	Error: Not allowed by CORS
+20230603	14:43:29	d98a89cf-f58c-444a-9fdc-9d600527a1d7	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Cursos\Node\tutorial\chapter8\routes\views\index.html'
+20230603	14:44:42	57c4354e-f817-455a-a4f5-1b9470b89210	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Cursos\Node\tutorial\chapter8\routes\index.html'
+20230603	21:35:48	ec65b368-fdef-41c3-b5b5-eb9d5255d5d1	SyntaxError: Unexpected token } in JSON at position 31
