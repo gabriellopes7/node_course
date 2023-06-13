@@ -54,6 +54,7 @@ app.use("/logout", require("./routes/logout"));
 //So as rotas abaixo do verifyJWT precisarão de autorização
 app.use(verifyJWT);
 app.use("/employees", require("./routes/api/employees"));
+app.use("/users", require("./routes/api/users"))
 
 //app.use('/')
 //Handling 404 errors
